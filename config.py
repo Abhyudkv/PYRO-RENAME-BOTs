@@ -10,7 +10,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "5136739867:AAEHNfiV-YojqX0nPRaCDDAu4BIJ
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "") 
 
-DB_NAME = os.environ.get("DB_NAME","")     
+DB_NAME = os.environ.get("DB_NAME","pyro-botz")     
 
 DB_URL = os.environ.get("DB_URL","mongodb+srv://Nadas:Nadas@cluster0.uyhil.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
  
